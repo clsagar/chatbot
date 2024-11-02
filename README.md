@@ -9,3 +9,5 @@
 **Real-time Response Generation**: The chatbot uses a streaming approach to generate responses in real time, displaying a loading spinner to improve user experience while waiting for the AI's reply.
 
 **Environment Configuration**: The project incorporates environment variable management using dotenv to securely handle the API key, promoting best practices in application security and configuration.
+
+
